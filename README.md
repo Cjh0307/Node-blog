@@ -1,5 +1,8 @@
 # Node-blog
 博客项目
 
-所用技术栈： NodeJs MongoDB
-框架应用： Express
+系统架构：
+    
+    数据层： mongoDB
+    服务层： nodeJs(express)
+    客户端： art-template
